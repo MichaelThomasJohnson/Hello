@@ -6,6 +6,6 @@ class ApplicationController < ActionController::Base
   end
 
   def goodbye
-    render html: "Yeah BOY!!!"
+    render html: "My first application created!"
   end
 end
